@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am working on web3<br>frontend developer<br>learnig AR/VR and AI
+i am working on web3<br>frontend developer<br>learnig AR/VR and AI <br> build gym app
 
 
 ## 🌐 Socials:
