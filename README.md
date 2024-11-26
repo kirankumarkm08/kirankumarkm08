@@ -6,13 +6,13 @@ Welcome to my GitHub profile. I'm a frontend developer, passionate about buildin
 - 🔭 I’m currently working on a real estate project
 - 🌱 I’m learning more about Web3 and AR/VR technologies
 - 💬 Ask me about React, Next.js, and JavaScript!
-- 📫 How to reach me: kirankumarkm@example.com
+- 📫 How to reach me: https://x.com/DevKirankumar
 
 ## 🖥️ Tech Stack:
 - **Frontend**: React, Next.js, JavaScript, TypeScript, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Databases**: MongoDB, PostgreSQL
-- **Tools**: Git, Docker, GitHub Actions
+- **Tools**: Git,
 
 ## ✨ Fun Animation:
 
@@ -20,7 +20,7 @@ Welcome to my GitHub profile. I'm a frontend developer, passionate about buildin
 
 ## 🚀 GitHub Stats:
 
-![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kirankumarkm&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kirankumarkm08&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
