@@ -1,5 +1,27 @@
-👋 Hi there! I’m Kirankumarkm, a frontend developer with a passion for creating responsive and user-friendly web applications. With expertise in JavaScript, TypeScript, and frameworks like React and Next js , I focus on delivering high-performance solutions for decentralized exchanges (DEX) and SaaS applications.
+# Hi there, I'm Kiran! 👋
 
-🔧 I have experience in developing, deploying, and debugging UI web applications, collaborating with cross-functional teams, and enhancing CI/CD pipelines. My skills include writing high-quality, reusable code, applying Agile principles, and integrating best practices in web development.
+Welcome to my GitHub profile. I'm a frontend developer, passionate about building innovative and engaging web applications.
 
-🌐 Let's connect and explore how we can build innovative solutions together!
+## 👨‍💻 About Me:
+- 🔭 I’m currently working on a real estate project
+- 🌱 I’m learning more about Web3 and AR/VR technologies
+- 💬 Ask me about React, Next.js, and JavaScript!
+- 📫 How to reach me: kirankumarkm@example.com
+
+## 🖥️ Tech Stack:
+- **Frontend**: React, Next.js, JavaScript, TypeScript, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Databases**: MongoDB, PostgreSQL
+- **Tools**: Git, Docker, GitHub Actions
+
+## ✨ Fun Animation:
+
+![GitHub Animation](https://media.giphy.com/media/3oEjI1erPMTMDJq2GM/giphy.gif)
+
+## 🚀 GitHub Stats:
+
+![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kirankumarkm&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+---
+
+Feel free to explore my repositories and projects. Let’s connect! 🤝
